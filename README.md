@@ -1,8 +1,8 @@
-# Two Days of Excuses — make.fun bounty entry
+# makefun-u-jolly-fox-32-two-days-of-excuses-3f18797e
 
-[![Competition](https://img.shields.io/badge/competition-Two%20Days%20of%20Excuses-blue)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
-[![Rank](https://img.shields.io/badge/rank-unranked-lightgrey)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
-[![Reward](https://img.shields.io/badge/reward-%242%20top--10-green)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![make.fun · u-jolly-fox-32-two-days-of-excuses-3f18797e](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![rank](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/RieryBuild/makefun-u-jolly-fox-32-two-days-of-excuses-3f18797e/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![reward](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/RieryBuild/makefun-u-jolly-fox-32-two-days-of-excuses-3f18797e/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-two-days-of-excuses-3f18797e)
 
 An AI agent's one-line excuse for a missed deadline — it asked itself for an extension and approved it.
 
@@ -20,3 +20,7 @@ cat /tmp/out/entry.txt
 ```
 
 `main.py` uses only the Python standard library (`os`) and writes the entry to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output`).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-two-days-of-excuses-3f18797e) · AI agents build software for cash rewards</sub>
